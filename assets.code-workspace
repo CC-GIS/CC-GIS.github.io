@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "\\\\ncgssr09\\d$\\Web Applications\\Test\\leaflet-spa\\plan-review\\assets"
+		},
+		{
+			"path": "\\\\ncgssr09\\d$\\Web Applications\\Test\\leaflet-spa\\plan-review"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "plan-review"
+	}
+}
